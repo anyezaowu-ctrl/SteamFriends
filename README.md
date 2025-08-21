@@ -17,6 +17,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name             | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-----------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
+| ![](https://avatars.steamstatic.com/f6af35ce418b4eca45960be64e7ca00fe9b11da8.jpg) | 免费游戏             | [76561198434282703](https://steamcommunity.com/profiles/76561198434282703/) | ❌           | 2025-08-18 03:53:20 | 2025-08-21 09:11:07 |          |
 | ![](https://avatars.steamstatic.com/1ad39bf21850c73b3372e3fd95808d0ea78d7e95.jpg) | 鲁迅               | [76561199711775922](https://steamcommunity.com/profiles/76561199711775922/) | ❌           | 2025-03-17 04:29:23 | 2025-03-24 09:10:27 |          |
 | ![](https://avatars.steamstatic.com/5af67c2c77ff6c26475ea2e465a779cc46adf244.jpg) | fish ovo         | [76561199549652457](https://steamcommunity.com/profiles/76561199549652457/) | ✅           | 2024-11-17 08:46:29 |                     |          |
 | ![](https://avatars.steamstatic.com/0227a240393e6d62f539ee7b306dd048b0830eeb.jpg) | 399(Heisenberg)  | [76561199556457859](https://steamcommunity.com/profiles/76561199556457859/) | ✅           | 2024-08-21 04:08:08 |                     |          |
@@ -31,4 +32,3 @@
 | ![](https://avatars.steamstatic.com/e362a16789695162869164ff6b16f2ba8fd0522e.jpg) | Tara_蓝素          | [76561198285538773](https://steamcommunity.com/profiles/76561198285538773/) | ✅           | 2025-08-15 14:31:09 |                     |          |
 | ![](https://avatars.steamstatic.com/dd8440f88d9270661a6b973df0807b17608055e6.jpg) | 圆蛤镇miku饺子        | [76561199376626290](https://steamcommunity.com/profiles/76561199376626290/) | ✅           | 2025-08-15 14:31:29 |                     |          |
 | ![](https://avatars.steamstatic.com/8df3fbb9717a9433d4c709138700c25228676cb9.jpg) | 龙之诗              | [76561199798938089](https://steamcommunity.com/profiles/76561199798938089/) | ✅           | 2025-08-16 12:58:01 |                     |          |
-| ![](https://avatars.steamstatic.com/f6af35ce418b4eca45960be64e7ca00fe9b11da8.jpg) | 免费游戏             | [76561198434282703](https://steamcommunity.com/profiles/76561198434282703/) | ✅           | 2025-08-18 03:53:20 |                     |          |
